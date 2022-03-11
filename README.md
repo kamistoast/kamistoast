@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **kamistoast/kamistoast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About me
+### About me
 
 - 🔭 I’m currently working on my own and first ios application
 - 🌱 I’m currently learning Swift with CoreData
 - 📫 How to reach me: Discord > KamisToast#5041
 - ⚡ Fun fact: I love anime and manga
 
-## Progress of completing my own app (testflight version)
+### Progress of completing my own app (testflight version)
 
 90% done
