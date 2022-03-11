@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my first ios application
 - 🌱 I’m currently learning Swift (of course) and CoreData
 - 📫 How to reach me: Discord > KamisToast#5041
-- ⚡ Fun fact: I love anime and manga
+- ⚡ Fun fact: big anime and manga fan
 
 ### Progress of completing my own app (testflight version)
 
