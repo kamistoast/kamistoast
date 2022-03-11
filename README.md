@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About me
+
+- 🔭 I’m currently working on my own and first ios application
+- 🌱 I’m currently learning Swift with CoreData
+- - 📫 How to reach me: Discord > KamisToast#5041
+- ⚡ Fun fact: I love anime and manga
+
+## Progress of completing my own app (testflight version)
+
+90% done
