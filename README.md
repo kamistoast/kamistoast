@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 ### Progress of completing my own app (testflight version)
 
-90% done
+60% done
