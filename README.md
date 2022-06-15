@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 ### About me
 
 - 🔭 I’m currently working on my first ios application
-- 🌱 I’m currently learning Swift (of course) and CoreData
+- 🌱 I’m currently learning Swift and CoreData
 - 📫 How to reach me: Discord > KamisToast#5041
 - ⚡ Fun fact: big anime and manga fan
 
 ### Progress of completing my own app (testflight version)
 
-60% done
+80% done
